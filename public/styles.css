@@ -37,12 +37,17 @@ body {
   display: flex;
 }
 
+.id {
+  color: yellowgreen;
+  padding-left: 10px;
+}
+
 .name {
   font-size: 2em;
   color: whitesmoke;
   display: flex;
   flex: 1;
-  margin: 10% 20px 0;
+  margin: 6% 20px 0;
 }
 
 .card img {
